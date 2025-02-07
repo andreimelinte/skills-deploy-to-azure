@@ -7,7 +7,7 @@ on:
 env:
   IMAGE_REGISTRY_URL: ghcr.io
   DOCKER_IMAGE_NAME: andreimelinte-azure-ttt
-  AZURE_WEBAPP_NAME: andreimelinte--ttt-app
+  AZURE_WEBAPP_NAME: andreimelinte-ttt-app
 
 jobs:
   build:
